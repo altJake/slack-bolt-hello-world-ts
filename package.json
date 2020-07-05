@@ -1,0 +1,14 @@
+{
+  "name": "slack-bolt-hello-world-ts",
+  "version": "1.0.0",
+  "description": "A basic example of using the Slack Bolt ⚡️ SDK, using TypeScript",
+  "main": "dist/index.js",
+  "repository": "https://github.com/altJake/slack-bolt-hello-world-ts",
+  "author": "Jakob Shimony",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@slack/bolt": "^2.1.1",
+    "typescript": "~3.9"
+  }
+}
