@@ -7,6 +7,9 @@
   "author": "Jakob Shimony",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
   "dependencies": {
     "@slack/bolt": "^2.1.1",
     "typescript": "~3.9"
